@@ -46,7 +46,7 @@ nutrients = {
     "Mn" : ["mn", "manganese", "manganate"],
     "Mo" : ["mo", "molybdenum"],
     "Ni" : ["ni", "nickel"],
-    "Al" : ["al", "aluminium", "aluminum", "aluminate", "alumosilicate"]
+    "Al" : ["al", "aluminium", "aluminum", "aluminate", "aluminosilicate"]
 }
 interactions = {
     "availability +": ["solubility", "mobilise", "mobilize", "mobilisation", "mobilization", "solute", "dissolve", "mineralization", "mineralisation", "mineralise", "mineralize", "solubilization", "solubilisation", "leaching", "desorption", "dissolution", "release", "extraction"], #"availability", "bioavailability",
